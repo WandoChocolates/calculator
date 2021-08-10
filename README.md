@@ -1,8 +1,6 @@
 https://calculator-good.herokuapp.com/
 
-A simple calculator app using Reactjs.
-
-# A calculator app
+# A simple calculator app using Reactjs
 A standard calculator: numbers, +, -, *, /, and the result
 
 # react-5jpttm
